@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # MERN Stack Blog Project
 
 A full-featured blog application built with the MERN stack (MongoDB, Express.js, React.js, Node.js).
@@ -75,3 +76,6 @@ REACT_APP_API_URL=http://localhost:5000/api
 =======
 # mon_projet
 >>>>>>> b8edfdbe42a4807656acf044b27f1837e098466d
+=======
+# app-blog
+>>>>>>> 9c0abeb3b0f6a69c61d9aea8e4adb540fef526ff
